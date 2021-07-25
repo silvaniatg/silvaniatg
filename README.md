@@ -1,16 +1,13 @@
-### Hi there 👋
+# 
+# Hey 👋🏽
 
-<!--
-**silvaniatg/silvaniatg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Silvânia Teixeira Gonçalves, I'm from Brazil🇧🇷 
 
-Here are some ideas to get you started:
+I'm Telecommunications Engineer,  master's student, researcher in the field of machine learning and data science.  💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enthusiast of the best machine learning technologies.
+
+- 📍 From MG living in Campinas
+
+Reach me out 👇🏼
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/silvania-teixeira-gon%C3%A7alves-0332065b/)](https://www.linkedin.com/in/silvania-teixeira-gon%C3%A7alves-0332065b/)
