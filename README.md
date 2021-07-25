@@ -1,7 +1,7 @@
 # 
 # Hey 👋🏽
 
-My name is Silvânia Teixeira Gonçalves, I'm from Brazil🇧🇷 
+My name is Silvânia Teixeira Gonçalves, I'm from Brazil 🇧🇷 
 
 I'm Telecommunications Engineer,  master's student, researcher in the field of machine learning and data science.  💻
 
